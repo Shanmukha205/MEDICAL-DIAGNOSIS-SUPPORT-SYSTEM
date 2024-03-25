@@ -1,0 +1,17 @@
+Patient ID,Age,Gender,Diabetes,Hypertension,Label
+1,23,Male,No,No,No
+2,31,Female,No,No,No
+3,36,Female,No,No,No
+4,44,Female,No,No,No
+5,45,Male,No,No,No
+6,19,Male,No,No,No
+7,20,Male,Yes,No,Yes
+8,56,Female,Yes,No,No
+9,47,Female,Yes,No,Yes
+10,32,Female,Yes,No,No
+11,31,Female,No,No,No
+12,24,Male,No,No,No
+13,23,Male,No,No,No
+14,21,Male,No,No,No
+15,37,Female,No,No,No
+16,32,Male,No,No,No
