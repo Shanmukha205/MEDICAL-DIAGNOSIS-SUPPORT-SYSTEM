@@ -14,8 +14,8 @@ label_encoder.fit_transform(df['Diabetes'])  df['Hypertension'] =
 label_encoder.fit_transform(df['Hypertension'])  df['Label'] = 
 label_encoder.fit_transform(df['Label'])   
    
-# Step 3: Extract features and labels from the DataFrame  data = df[['Age', 
-'Gender', 'Diabetes', 'Hypertension']].values.astype(np.float32)  labels = 
+# Step 3: Extract features and labels from the DataFrame  
+data = df[['Age', 'Gender', 'Diabetes', 'Hypertension']].values.astype(np.float32)  labels = 
 df['Label'].values.astype(np.float32)  
 
 # Step 4: Define and compile the model 
